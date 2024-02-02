@@ -56,6 +56,11 @@
         src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white"/></a>
     <a href="https://ethereum.org/en/" target="_blank"><img alt="Ethereum"
         src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
-    <a src="https://img.shields.io/badge/Foundry-3C3C3D?style=for-the-badge&logo=Foundry&logoColor=white" /></a>
+    <a href="https://book.getfoundry.sh/" target="_blank"><img alt="Foundry"
+        src="https://img.shields.io/badge/Foundry-3C3C3D?style=for-the-badge&logo=Foundry&logoColor=white"/></a>
 
 </p>
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/:interval/:user/:repo)
+
+
