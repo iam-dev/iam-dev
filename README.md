@@ -56,11 +56,33 @@
         src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white"/></a>
     <a href="https://ethereum.org/en/" target="_blank"><img alt="Ethereum"
         src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
+    <a href="[https://book.getfoundry.sh/](https://remix.run/)" target="_blank"><img alt="Remix"
+        src="https://img.shields.io/badge/Foundry-FFFFFF?style=for-the-badge&logo=Remix&logoColor=white"/></a>
     <a href="https://book.getfoundry.sh/" target="_blank"><img alt="Foundry"
         src="https://img.shields.io/badge/Foundry-3C3C3D?style=for-the-badge&logo=Foundry&logoColor=white"/></a>
 
 </p>
 
+#### 🎛️ Frameworks:
+    
+<p>   
+     <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
+        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+    <a href="https://nestjs.com" target="_blank"><img alt="Nestjs"
+        src="https://img.shields.io/badge/Nestjs-red?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
+     <a href="https://nextjs.org/" target="_blank"><img alt="Nextjs"
+        src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/></a>
+         <a href="https://reactjs.org/" target="_blank"><img alt="ReactJs"
+        src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
+         <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind.css"
+        src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+         <a href="https://github.com/web3/web3.js" target="_blank"><img alt="Web3.js"
+        src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/></a>
+         <a href="https://chakra-ui.com/" target="_blank"><img alt="ChakraUI"
+        src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/></a>
+    
+</p>
+    
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/:interval/:user/:repo)
 
 
