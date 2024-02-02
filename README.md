@@ -14,7 +14,8 @@
 
 ### ❓ About Me
 
-👨‍💻 - I'am a ZK-, Solidity- and Web3 Developer, DevOps Engineer.
+👨‍💻 - IaM a ZK-, Solidity- and Web3 <DEV>, learning Rust and Cryptography.
+Also a DevOps Engineer, Business Analist, Oracle EBS Consultant and Certified ScrumMaster.
 
 ### 🚀 Skills
 
