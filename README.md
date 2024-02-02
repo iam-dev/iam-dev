@@ -69,6 +69,10 @@ Also a DevOps Engineer, Business Analist, Oracle EBS Consultant and Certified Sc
         src="https://img.shields.io/badge/Remix-FFFFFF?style=for-the-badge&logo=remix&logoColor=white"/></a>
     <a href="https://book.getfoundry.sh/" target="_blank"><img alt="Foundry"
         src="https://img.shields.io/badge/Foundry-3C3C3D?style=for-the-badge&logo=foundry&logoColor=white"/></a>
+    <a href="https://www.openzeppelin.com/contracts" target="_blank"><img alt="OpenZeppelin"
+        src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge"/></a>
+    <a href="https://github.com/solidstate-network/solidstate-solidity" target="_blank"><img alt="SolidState Solidity"
+        src="https://img.shields.io/badge/SolidState-4E5EE4?logo=SolidState&logoColor=fff&style=for-the-badge"/></a>
 
 </p>
 
@@ -92,7 +96,7 @@ Also a DevOps Engineer, Business Analist, Oracle EBS Consultant and Certified Sc
          <a href="https://chakra-ui.com/" target="_blank"><img alt="ChakraUI"
         src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/></a>
         <a href="https://ui.shadcn.com" target="_blank"><img alt="ShadcnUI"
-        src="https://img.shields.io/badge/shadcn-white.svg?style=for-the-badge&logo=shadcn&logoColor=white"/></a>
+        src="https://img.shields.io/badge/shadcn-white?style=for-the-badge&logo=shadcn&logoColor=white"/></a>
 </p>
     
 
