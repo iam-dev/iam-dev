@@ -35,6 +35,9 @@
         src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
     <a href="https://www.java.com" target="_blank"><img alt="Java"
         src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=gnubash&logoColor=blue"/></a>
+    <a href="https://devgym.oracle.com/pls/apex/f?p=10001:20011::::20011::" target="_blank"><img alt="PL SQL"
+        src="https://img.shields.io/badge/PLSQL-white?style=for-the-badge&logo=gnubash&logoColor=red"/></a>
+    
 </p>
 
 #### ⛓️ Web3 Tooling:
