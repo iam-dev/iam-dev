@@ -82,9 +82,8 @@
         src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/></a>
          <a href="https://chakra-ui.com/" target="_blank"><img alt="ChakraUI"
         src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/></a>
-    
+        <a href="https://ui.shadcn.com" target="_blank"><img alt="ShadcnUI"
+        src="https://img.shields.io/badge/shadcn-white.svg?style=for-the-badge&logo=shadcn&logoColor=white"/></a>
 </p>
     
-![GitHub commit activity](https://img.shields.io/github/commit-activity/:interval/:user/:repo)
-
 
