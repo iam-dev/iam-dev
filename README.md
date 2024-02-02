@@ -33,6 +33,8 @@
         src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/></a>
     <a href="https://www.gnu.org/software/bash" target="_blank"><img alt="Bash"
         src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
+    <a href="https://www.java.com" target="_blank"><img alt="Java"
+        src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=gnubash&logoColor=blue"/></a>
 </p>
 
 #### ⛓️ Web3 Tooling:
@@ -69,7 +71,7 @@
      <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
     <a href="https://nestjs.com" target="_blank"><img alt="Nestjs"
-        src="https://img.shields.io/badge/Nestjs-red?style=for-the-badge&logo=nestjs&logoColor=white"/></a>
+        src="https://img.shields.io/badge/Nestjs-white?style=for-the-badge&logo=nestjs&logoColor=red"/></a>
      <a href="https://nextjs.org/" target="_blank"><img alt="Nextjs"
         src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/></a>
          <a href="https://reactjs.org/" target="_blank"><img alt="ReactJs"
