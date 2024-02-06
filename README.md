@@ -98,5 +98,15 @@ Also a DevOps Engineer, Business Analist, Oracle EBS Consultant and Certified Sc
         <a href="https://ui.shadcn.com" target="_blank"><img alt="ShadcnUI"
         src="https://img.shields.io/badge/shadcn-white?style=for-the-badge&logo=shadcn&logoColor=white"/></a>
 </p>
+
+#### DevOps:
+<p>   
+     <a href="https://kubernetes.io/" target="_blank"><img alt="Kubernetes"
+        src="https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=kubernetes&logoColor=#326CE5"/></a>
+    <a href="https://helm.sh/" target="_blank"><img alt="Helm.sh"
+        src="https://img.shields.io/badge/Helm-white?style=for-the-badge&logo=helm&logoColor=#0F1689"/></a>
+    <a href="https://www.docker.com/" target="_blank"><img alt="Docker"
+        src="https://img.shields.io/badge/Kubernetes-2496ED?style=for-the-badge&logo=docker&logoColor=#white"/></a>
+</p>
     
 
