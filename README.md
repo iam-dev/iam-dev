@@ -99,14 +99,50 @@ Also a DevOps Engineer, Business Analist, Oracle EBS Consultant and Certified Sc
         src="https://img.shields.io/badge/shadcn-white?style=for-the-badge&logo=shadcn&logoColor=white"/></a>
 </p>
 
-#### DevOps:
-<p>   
-     <a href="https://kubernetes.io/" target="_blank"><img alt="Kubernetes"
-        src="https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=kubernetes&logoColor=#326CE5"/></a>
-    <a href="https://helm.sh/" target="_blank"><img alt="Helm.sh"
-        src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/></a>
-    <a href="https://www.docker.com/" target="_blank"><img alt="Docker"
-        src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=#white"/></a>
+#### 🗃️ Packages, DevOps & Hosting:
+
+<p>
+    <a href="https://www.docker.com" target="_blank"><img alt="Docker"
+        src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+    <a href="https://www.npmjs.com" target="_blank"><img alt="npm"
+        src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
+    <a href="https://yarnpkg.com" target="_blank"><img alt="Yarn"
+        src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/></a>
+    <a href="https://bun.sh/" target="_blank"><img alt="Bun.sh"
+        src="https://img.shields.io/badge/Bun.sh-black?style=for-the-badge&logo=bun&logoColor=white"/></a>
+    <a href="https://www.virtualbox.org" target="_blank"><img alt="Virtualbox"
+        src="https://img.shields.io/badge/Virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/></a>
+        <a href="https://www.digitalocean.com/" target="_blank"><img alt="Digital Ocean"
+        src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/></a>
+        <a href="https://vercel.com/" target="_blank"><img alt="Vercel"
+        src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+</p>
+
+#### 🔧 Dev Tooling:
+
+<p>
+    <a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code"
+        src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
+    <a href="https://git-scm.com" target="_blank"><img alt="Git"
+        src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+        <a href="https://www.vim.org/" target="_blank"><img alt="Vim"
+        src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/></a>
+
+</p>
+
+#### 💻 OS:
+
+<p> 
+    <a href="https://ubuntu.com" target="_blank"><img alt="Ubuntu"
+        src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
+    <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank"><img alt="Red Hat"
+        src="https://img.shields.io/badge/Red Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/></a>
+    <a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img alt="Windows"
+        src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
+        <a href="https://www.kali.org/" target="_blank"><img alt="Kali Linux"
+        src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/></a>
+
 </p>
     
 
