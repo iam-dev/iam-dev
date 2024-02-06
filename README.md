@@ -38,7 +38,9 @@ Also a DevOps Engineer, Business Analist, Oracle EBS Consultant and Certified Sc
     <a href="https://www.java.com" target="_blank"><img alt="Java"
         src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=gnubash&logoColor=blue"/></a>
     <a href="https://devgym.oracle.com/pls/apex/f?p=10001:20011::::20011::" target="_blank"><img alt="PL SQL"
-        src="https://img.shields.io/badge/PLSQL-white?style=for-the-badge&logo=gnubash&logoColor=red"/></a>
+        src="https://img.shields.io/badge/PLSQL-white?style=for-the-badge&logo=plsql&logoColor=red"/></a>
+    <a href="https://devgym.oracle.com/pls/apex/f?p=10001:20011::::20011::" target="_blank"><img alt="PL SQL"
+        src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=gnubash&logoColor=blue"/></a>
     
 </p>
 
