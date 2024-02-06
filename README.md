@@ -28,7 +28,7 @@ Also a DevOps Engineer, Business Analist, Oracle EBS Consultant and Certified Sc
     <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"
         src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
     <a href="https://docs.minaprotocol.com/zkapps/how-to-write-a-zkapp" target="_blank"><img alt="O1Js"
-        src="https://img.shields.io/badge/mina.svg?logo=mina&logoColor=white"/></a>
+        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
     <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"
         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
