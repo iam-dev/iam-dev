@@ -104,6 +104,12 @@ Also a DevOps Engineer, Business Analist, Oracle EBS Consultant and Certified Sc
 <p>
     <a href="https://www.docker.com" target="_blank"><img alt="Docker"
         src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+    <a href="https://kubernetes.io/" target="_blank"><img alt="Kubernetes"
+        src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+    <a href="https://helm.sh/" target="_blank"><img alt="Helm.sh"
+        src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/></a>
+    <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank"><img alt="ArgoCD"
+        src="https://img.shields.io/badge/ArgoCD-white?style=for-the-badge&logo=argo&logoColor=#EF7B4D"/></a>
     <a href="https://www.npmjs.com" target="_blank"><img alt="npm"
         src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
     <a href="https://yarnpkg.com" target="_blank"><img alt="Yarn"
