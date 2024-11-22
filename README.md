@@ -16,8 +16,6 @@
 
 👨‍💻 - IaM a ZK-, Solidity- and Web3 &#60;DEV&#62;, learning Rust and Cryptography.
 
-Also a DevOps Engineer, Business Analist, Oracle EBS Consultant and Certified ScrumMaster.
-
 ### 🚀 Skills
 
 #### ⌨ Programming Languages:
