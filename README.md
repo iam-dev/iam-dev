@@ -1,39 +1,76 @@
-# iamdev — building MnemeBrain
+# iamdev
 
-Belief memory for AI agents.
-
-Most AI memory systems store notes, chunks, or embeddings.
-
-But agents also need to **maintain beliefs over time**:
-- conflicting evidence
-- belief revision
-- confidence updates
-- temporal decay
-
-MnemeBrain explores this missing layer in the AI stack.
+Building **MnemeBrain — belief memory for AI agents**
 
 ---
 
-# MnemeBrain
+## The problem
 
-**MnemeBrain** is a belief memory architecture for long-lived AI agents.
+Most AI memory systems store:
 
-Instead of storing facts and overwriting them, it tracks:
+• notes
+• vector embeddings
+• retrieved context
 
-• evidence  
-• contradictions  
-• belief states  
-• revision history  
+But they **do not maintain beliefs**.
 
-This allows agents to reason about **conflicting information** instead of silently forgetting it.
+When new evidence appears, the system usually **overwrites the previous memory**.
 
-Think of it as a **belief layer for AI agents**.
+Real agents should instead track:
+
+* conflicting evidence
+* belief revision
+* uncertainty
+* temporal change
+
+Memory ≠ belief maintenance.
 
 ---
 
-# Projects
+## MnemeBrain
+
+**MnemeBrain** explores a belief layer for AI agents.
+
+Instead of storing isolated facts, it maintains **belief states backed by evidence**.
+
+Core concepts:
+
+* Evidence graphs
+* Belief nodes
+* Belnap four-valued logic
+* Contradiction detection
+* Confidence + temporal decay
+* Belief revision
+
+This allows agents to reason about **conflicting information over time**.
+
+---
+
+## Architecture
+
+```
+Agent / LLM
+     │
+     ▼
+ MnemeBrain
+     │
+ ┌─────────────────────┐
+ │ Belief Graph        │
+ │ Evidence Tracking   │
+ │ Truth States        │
+ │ Revision Engine     │
+ │ Temporal Decay      │
+ └─────────────────────┘
+```
+
+Think of it as **a belief system for long-lived agents**.
+
+---
+
+## Projects
 
 ### MnemeBrain
+
 Belief memory architecture for AI agents.
 
 https://github.com/mnemebrain
@@ -42,52 +79,50 @@ https://github.com/mnemebrain
 
 ### MnemeBrain Benchmark (BMB)
 
-Benchmark for evaluating **belief dynamics in AI memory systems**.
+A benchmark for **belief dynamics in AI memory systems**.
 
-Tests include:
+Includes task scenarios such as:
 
-- contradiction detection
-- belief revision
-- temporal decay
-- evidence tracking
-- belief lifecycle
-- extraction from noisy conversation
+* contradiction detection
+* belief revision
+* evidence lifecycle
+* temporal decay
+* extraction from noisy conversations
 
 https://github.com/mnemebrain/mnemebrain-benchmark
 
 ---
 
-# Current Focus
+## Writing
 
-Research and development around:
-
-• AI agent memory architecture  
-• belief graphs  
-• contradiction handling  
-• long-lived agents  
-• evaluation and benchmarks  
-
----
-
-# Background
-
-Previously worked on:
-
-• smart contracts  
-• zero-knowledge systems  
-• Web3 infrastructure  
-
----
-
-# Writing
-
-Blog:
+Blog posts about agent memory architecture:
 
 https://mnemebrain.ai
 
 ---
 
-# Connect
+## Research directions
 
-Twitter / X  
+Current exploration:
+
+• belief systems for AI agents
+• contradiction handling in memory
+• long-lived agent architectures
+• evaluation of agent memory systems
+
+---
+
+## Background
+
+Previously worked on:
+
+• smart contracts
+• zero-knowledge systems
+• Web3 infrastructure
+
+---
+
+## Connect
+
+X / Twitter
 https://x.com/Iamdev_ai
